@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <!-- Logótipo do Grande Prémio da Escola: um capacete de corrida vermelho,
+       virado para a direita, com uma bandeira aos quadrados atrás.
+       Desenho simples, feito para o exercício. -->
+  <line x1="8" y1="3" x2="8" y2="30" stroke="#2c3e50" stroke-width="2"/>
+  <rect x="9" y="4" width="16" height="12" fill="#ffffff" stroke="#2c3e50" stroke-width="0.6"/>
+  <rect x="9" y="4" width="4" height="4" fill="#2c3e50"/>
+  <rect x="17" y="4" width="4" height="4" fill="#2c3e50"/>
+  <rect x="13" y="8" width="4" height="4" fill="#2c3e50"/>
+  <rect x="21" y="8" width="4" height="4" fill="#2c3e50"/>
+  <rect x="9" y="12" width="4" height="4" fill="#2c3e50"/>
+  <rect x="17" y="12" width="4" height="4" fill="#2c3e50"/>
+  <path d="M16 43 C14 31 20 20 31 19 C40 18 45 26 45 34 L45 41 C45 42.5 44 43 43 43 Z" fill="#c0392b"/>
+  <rect x="29" y="26" width="15" height="8" rx="2" fill="#2c3e50"/>
+  <line x1="16" y1="38" x2="45" y2="38" stroke="#ffffff" stroke-width="2.5"/>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <!-- O troféu fictício do torneio: uma taça dourada com um pequeno kart
+       vermelho em cima e uma fita azul atada à base.
+       Desenho feito para o exercício. -->
+  <rect x="0" y="0" width="400" height="300" fill="#eef3f8"/>
+  <rect x="60" y="276" width="280" height="6" fill="#9aa5b1"/>
+
+  <!-- A base de madeira, com a fita azul à volta e o laço à frente. -->
+  <rect x="140" y="236" width="120" height="40" rx="3" fill="#6b4226"/>
+  <rect x="152" y="224" width="96" height="14" rx="2" fill="#8b5a2b"/>
+  <rect x="140" y="248" width="120" height="10" fill="#1f5fa8"/>
+  <polygon points="196,256 186,292 194,292 200,262" fill="#1f5fa8"/>
+  <polygon points="204,256 214,292 206,292 200,262" fill="#1f5fa8"/>
+  <polygon points="200,253 177,240 177,266" fill="#1f5fa8"/>
+  <polygon points="200,253 223,240 223,266" fill="#1f5fa8"/>
+  <circle cx="200" cy="253" r="6" fill="#174a85"/>
+
+  <!-- O pé da taça. -->
+  <polygon points="186,224 214,224 207,190 193,190" fill="#b7791f"/>
+  <ellipse cx="200" cy="190" rx="18" ry="6" fill="#e0a526"/>
+
+  <!-- As asas, desenhadas antes do corpo para as pontas ficarem por trás dele. -->
+  <path d="M144 102 C108 100 106 152 164 160" fill="none" stroke="#e0a526" stroke-width="10" stroke-linecap="round"/>
+  <path d="M256 102 C292 100 294 152 236 160" fill="none" stroke="#e0a526" stroke-width="10" stroke-linecap="round"/>
+
+  <!-- O corpo da taça, com um reflexo mais claro, e a borda. -->
+  <path d="M138 86 L262 86 C262 144 238 180 200 184 C162 180 138 144 138 86 Z" fill="#e0a526"/>
+  <path d="M156 100 C156 132 168 156 186 170" fill="none" stroke="#f6d365" stroke-width="8" stroke-linecap="round"/>
+  <ellipse cx="200" cy="86" rx="62" ry="8" fill="#f6d365" stroke="#b7791f" stroke-width="2"/>
+
+  <!-- O kart vermelho, pousado na borda. -->
+  <path d="M152 62 L158 50 L192 50 L200 38 L212 38 L216 50 L240 52 L248 58 L248 62 Z" fill="#c0392b"/>
+  <line x1="222" y1="50" x2="227" y2="41" stroke="#2c3e50" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="180" cy="56" r="5" fill="#ffffff"/>
+  <circle cx="170" cy="68" r="11" fill="#2c3e50"/>
+  <circle cx="232" cy="68" r="11" fill="#2c3e50"/>
+  <circle cx="170" cy="68" r="4" fill="#9aa5b1"/>
+  <circle cx="232" cy="68" r="4" fill="#9aa5b1"/>
+</svg>
