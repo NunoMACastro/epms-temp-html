@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <!-- Logótipo da Sala de Fuga da Escola: um cadeado roxo com um ponto de
+       interrogação branco no meio. Desenho simples, feito para o exercício. -->
+  <path d="M15 23 V15 A9 9 0 0 1 33 15 V23" fill="none" stroke="#7f8c8d" stroke-width="4"/>
+  <rect x="9" y="21" width="30" height="24" rx="4" fill="#6c3483"/>
+  <text x="24" y="40" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">?</text>
+</svg>
